@@ -1,0 +1,6 @@
+content verttabbar chrome/content/
+overlay chrome://browser/content/browser.xul chrome://verttabbar/content/browser.xul
+overlay chrome://navigator/content/navigator.xul chrome://verttabbar/content/browser.xul
+style   chrome://browser/content/browser.xul chrome://verttabbar/content/browser.css
+style   chrome://navigator/content/navigator.xul chrome://verttabbar/content/browser.css
+locale verttabbar en-US chrome/locale/en-US/
