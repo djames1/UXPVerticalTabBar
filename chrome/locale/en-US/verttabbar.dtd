@@ -1,5 +1,5 @@
-<!ENTITY vtb.prefwindow.verttabbar.options "SeaMonkey Vertical Tab Bar Options">
-<!ENTITY vtb.prefpane.verttabbar.settings "SeaMonkey Vertical Tab Bar Settings">
+<!ENTITY vtb.prefwindow.verttabbar.options "UXP Vertical Tab Bar Options">
+<!ENTITY vtb.prefpane.verttabbar.settings "UXP Vertical Tab Bar Settings">
 <!ENTITY vtb.label.width.of.tab.bar "Width of tab bar:">
 <!ENTITY vtb.label.position "Position of the tab bar:">
 <!ENTITY vtb.radio.position.left "Left">

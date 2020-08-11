@@ -5,7 +5,7 @@
     <em:version>1.0</em:version>
     <em:type>2</em:type>
     <!-- Front End MetaData -->
-    <em:name>SeaMonkey Vertical Tab Bar</em:name>
+    <em:name>UXP Vertical Tab Bar</em:name>
     <em:description>Vertical tabs for UXP based suites. Fork of SeaMonkey Vertical Tab Bar by rn10950</em:description>
     <em:creator>djames1</em:creator>
     <em:optionsURL>chrome://verttabbar/content/options.xul</em:optionsURL>
